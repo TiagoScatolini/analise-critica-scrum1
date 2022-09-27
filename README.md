@@ -2,6 +2,7 @@
 Case real disponível: https://www.fm2s.com.br/casos-de-estudo-case-gesto-de-projetos-e-scrum/ disponível em ANEXO 1.
 
 Análise crítica
+
 A partir do case apresentado, é possível observar como a adoção de metodologias ágeis podem revolucionar a gestão de projetos, integrando equipes e produzindo entregáveis com  alto valor agregado, através da transparência nas comunicações e tarefas, alta capacidade de inspeção em todas as etapas e alta capacidade adaptativa.
 O frawemork ágil por sua clara divisão dos papéis, eventos e do tempo, pode proporcionar a otimização do trabalho e dos custos, através da produção de artefatos de alto poder agregado e alta adaptabilidade. 
 Porém é importante observar, que o sucesso deste processo depende da integração da equipe com o framework e o desenvolvimento da cultura ágil, para que o processo não se torne mecânico e pouco produtivo. O foco nos resultados, a abertura ao novo, o comprometimento com o projeto, a coragem exercida na autonomia de cada integrante do time e o respeito nas relações, são passos fundamentais para o alcance destes resultados.
